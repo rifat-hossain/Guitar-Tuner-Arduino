@@ -16,3 +16,6 @@ Every string in guitar ideally by default plays in a specific frequency. We can 
 
 ## Schematic Diagram
 ![Schematic Image](https://github.com/rifat-hossain/Guitar-Tuner/blob/main/img/schematic.jpg?raw=true)
+
+## Test Run
+[<img src="https://github.com/rifat-hossain/Guitar-Tuner-Arduino/blob/main/img/thumb.jpg?raw=true" width="480" height="270" />](https://youtu.be/kf_4T2DdHaA)
