@@ -14,6 +14,10 @@ Every string in guitar ideally by default plays in a specific frequency. We can 
 - (1x) Yellow LED
 - 10uF Capacitor
 
+## Working Principle
+It stores n number of audio data from a condenser microphone and process FFT operation on it. Then the peak frequency found from the FFT is compared with all the string frequencies.
+Finally, it indicates the string and tells you whether you have to tighten or loosen the string to get the right frequency by lighting up LEDs.
+
 ## Schematic Diagram
 ![Schematic Image](https://github.com/rifat-hossain/Guitar-Tuner/blob/main/img/schematic.jpg?raw=true)
 
